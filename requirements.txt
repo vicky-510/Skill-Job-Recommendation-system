@@ -1,0 +1,3 @@
+Flask
+Flask-Bootstrap4
+ibm_db
